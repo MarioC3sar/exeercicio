@@ -1,0 +1,83 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #222;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  background: #333;
+  padding: 20px;
+  border-radius: 10px;.container {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.numeros-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.ball {
+  width: 40px;
+  height: 40px;
+  background-color: rgb(226, 43, 43);
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+  text-align: center;
+  width: 300px;
+}
+
+h2 {
+  color: #f49494;
+  font-size: 18px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 2px solid #555;
+  border-radius: 5px;
+  background: #444;
+  color: white;
+  text-align: center;
+}
+
+
+
+.numeros-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.numero {
+  width: 40px;
+  height: 40px;
+  background: #6b46c1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+
+ 
